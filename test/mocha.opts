@@ -1,0 +1,8 @@
+--ui bdd
+--check-leaks
+--recursive
+--slow 200
+--reporter spec
+--globals Intl,IntlPolyfill
+--compilers js:babel-core/register
+--require @springworks/test-harness

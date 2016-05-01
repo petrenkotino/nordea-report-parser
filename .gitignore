@@ -1,0 +1,15 @@
+# OS X Finder
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+node_modules
+*.log
+
+plan.md
+
+# IDEs
+.vscode
+.idea
+*.iml
